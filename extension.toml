@@ -1,0 +1,8 @@
+id = "zed-vue-snippets"
+name = "Vue snippets"
+version = "0.0.1"
+schema_version = 1
+authors = ["Rune B"]
+description = "A collection of useful snippets for Vue 3."
+repository = "https://github.com/rubjo/zed-vue-snippets"
+snippets = "./snippets/vue.js.json"

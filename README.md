@@ -2,6 +2,9 @@
 
 Based on the snippets from the [Vue 3 VS Code Snippets](https://marketplace.visualstudio.com/items?itemName=exer7um.vue-3-vscode-snippets) extension by ExEr7um.
 
+## Fork
+This fork puts the template tag before the script tag, as i prefer that :)
+
 ## Snippets
 
 ### `.vue` files
